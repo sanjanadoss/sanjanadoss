@@ -1,6 +1,6 @@
 ### Hi there, I am Sanjana Doss 👋
 
-<img src="https://c.tenor.com/iCf2IgJfq7IAAAAC/waiting-im.gif" alt="waiting-phone"  width="0">
+<img src="https://c.tenor.com/iCf2IgJfq7IAAAAC/waiting-im.gif" alt="waiting-phone">
 
 <!--
 **sanjanadoss/sanjanadoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
