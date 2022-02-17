@@ -18,6 +18,6 @@
 ![pv](https://pageview.vercel.app/?github_user=sanjanadoss)
 #### <span>&#60;</span>/theend<span>&#62;</span>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h6 align="center"> Credits: [SanjanaDoss](https://github.com/sanjanadoss)</h6>
- <h6 align="center"> rick roll idea from @AkuraDiary </h6>
+<h6 align="center"> <em> "And if thou gaze long into an abyss, the abyss will also gaze into thee." </em> </h6>
+ <h6 align="center"> rick roll idea credit : @AkuraDiary </h6>
 <img src="https://raw.githubusercontent.com/Pepyn0/Pepyn0/e9a41b56511796ce23652bd2c58a7834dcdb7296/github-contribution-grid-snake.svg">
