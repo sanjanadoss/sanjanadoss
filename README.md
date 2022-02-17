@@ -1,5 +1,17 @@
-### Hi there, I am Sanjana Doss
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/sanjana-doss-b8a07b175/" target="_blank" rel="noopener noreferrer">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+  
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
+ ### <about>
+- I'm a Computer and Communications undergrad  
+- I am self learning Frontend, UI/UX whenever I am not stuck with a syntax error in my code
+- I love graphic designing, books and creative photography.
 
-
-## I'm a web developer, a python programmer, and a tech enthusiast!
-
+ ### <about class ="Boring Stats... 🚀">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanadoss&theme=tokyonight" alt="mystreak"/>
+ ![sanjanadoss's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadoss&theme=tokyonight&layout=compact)
+ ### </about>
+ 
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ ### </theend>
+ <img src="https://raw.githubusercontent.com/Pepyn0/Pepyn0/e9a41b56511796ce23652bd2c58a7834dcdb7296/github-contribution-grid-snake.svg">
