@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### <span>&#60;</span>about<span>&#62;</span>
-- 💬 I'm a Computer and Communications undergrad  
+- 💬 I'm a Computer and Communications Enginnering undergrad  
 - 🌱 I am self learning Frontend, UI/UX whenever I am not stuck with a syntax error in my code
 - 👯 I love graphic designing, books and creative photography.
 
