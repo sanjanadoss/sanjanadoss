@@ -8,7 +8,8 @@
 - I love graphic designing, books and creative photography.
 
 ### <span>&#60;</span>about class ="Boring Stats... 🚀"<span>&#62;</span>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadoss&theme=tokyonight&layout=compact" alt="mytoplang"/>
+<br />
+<img align='right' img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadoss&theme=tokyonight&layout=compact" alt="mytoplang"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanadoss&theme=tokyonight" alt="mystreak"/>
  
 ### <span>&#60;</span>contact<span>&#62;</span>
