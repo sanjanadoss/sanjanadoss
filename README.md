@@ -10,7 +10,7 @@
  ### <span>&#60;</span>about class ="Boring Stats... 🚀"<span>&#62;</span>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanadoss&theme=tokyonight" alt="mystreak"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadoss&theme=tokyonight&layout=compact" alt="mytoplang"/>
- ### <span>&#60;</span>/about<span>&#62;</span>
+ ## <span>&#60;</span>/about<span>&#62;</span>
   
 ### <span>&#60;</span>contact<span>&#62;</span>
 [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sanjanadoss2503@gmail.com)](sanjanadoss2503@gmail.com)
