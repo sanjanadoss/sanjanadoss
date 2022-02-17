@@ -13,9 +13,9 @@
  ### <span>&#60;</span>/about<span>&#62;</span>
   
 ### <span>&#60;</span>contact<span>&#62;</span>
-[![Gmail Badge](https://img.shields.io/badge/-sanjanadoss2503@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sanjanadoss2503@gmail.com)](sanjanadoss2503@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-sanjxuwu-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/sanjxuwu/)](https://www.instagram.com/sanjxuwu/)
- ### <span>&#60;</span>/contact<span>&#62;</span>
+[![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sanjanadoss2503@gmail.com)](sanjanadoss2503@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/sanjxuwu/)](https://www.instagram.com/sanjxuwu/)
+### <span>&#60;</span>/contact<span>&#62;</span>
   
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  ### <span>&#60;</span>/theend<span>&#62;</span>
