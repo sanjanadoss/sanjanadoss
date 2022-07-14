@@ -4,8 +4,7 @@
 
 ### <span>&#60;</span>about<span>&#62;</span>
 - 💬 I'm a Computer and Communications Enginnering undergrad  
-- 🌱 I am self learning Frontend, Backend, ML Engineering, UI/UX 
- <br> whenever I am not stuck with a syntax error in my code :')
+- 🌱 I am self learning Frontend, ML Engineering, UI/UX whenever I am not stuck with a syntax error in my code :')
 - 👯 I am a graphic designer, avid reader and creative photography enthusiast 
 
 ### <span>&#60;</span>about class ="Boring Stats... 🚀"<span>&#62;</span>
